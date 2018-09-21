@@ -1,2 +1,2 @@
 # DnsLogger
-Capture all information about DNS requests and Response and save them into JSON format for analyzing
+Capture DNS requests and Response information and save them into JSON format for future analyzing.
